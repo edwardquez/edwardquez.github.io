@@ -2,22 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Stanford University</a>. edwardq600@gmail.com (562)-341-9874 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: DSCF5689.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Based in Los Angeles, CA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,8 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Edward. I am a recent graduate of Stanford University where I earned my degree in Management Science and Engineering (MS&E) and a concentration in finance and decision-making. I enjoy data analysis and its applicability in all types of industries including finance, sports.  I am currently pursuing roles in FP&A, data analysis, and consulting.      
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m passionate about the power of data to inform smart decisions and drive meaningful outcomes. During my time at Stanford, I developed a strong foundation in quantitative analysis, financial modeling, and strategic thinking skills which I enjoy applying to solve real world problems across a wide range of industries. From financial planning and analysis (FP&A) to sports analytics, I’m particularly interested in how data can uncover key insights to guide impactful decisions. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently exploring opportunities in FP&A, data analysis, and consulting where I seek to continue to grow and contribute to data-driven decision-making. Thanks for visiting my site and feel free to reach out if you would like to connect :D
+
