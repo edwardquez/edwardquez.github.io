@@ -5,7 +5,7 @@ date: 2025-06-02 03:08:00
 description: 
 tags: 
 categories: 
-thumbnail: scoreboard.jpg
+thumbnail: scoreboard_3.jpg 
 
 ---
 
