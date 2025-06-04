@@ -13,7 +13,7 @@ Using Champions League Data to Analyze Key Metrics for Tournament Success
 
 <!-- PROJECT OVERVIEW -->
 <details open>
-  <summary style="font-weight: bold; color: black; cursor: pointer;">Project Overview:</summary>
+  <summary><strong>Project Overview</strong></summary>
   <p>
     This project examines team performance in the <span style="color: #b509ac;">UEFA Champions League</span> over the past five years using a <span style="color: #b509ac;">data-driven approach</span> to identify which metrics most strongly correlate with tournament success. With football tactics constantly evolving, the study seeks to provide insight into which modern play styles and team characteristics most reliably predict progress in the competition. Success is evaluated at three levels: <span style="color: #b509ac;">qualifying</span> for the tournament, <span style="color: #b509ac;">reaching the Round of 16</span>, and <span style="color: #b509ac;">reaching the Final</span>.
   </p>
@@ -21,7 +21,7 @@ Using Champions League Data to Analyze Key Metrics for Tournament Success
 
 <!-- OBJECTIVES -->
 <details>
-  <summary style="font-weight: bold; color: black; cursor: pointer;">Objectives:</summary>
+  <summary><strong>Objectives</strong></summary>
   <ul>
     <li>To determine which <span style="color: #b509ac;">performance metrics</span> correlate most strongly with success in the UEFA Champions League</li>
     <li>To test hypotheses regarding the importance of <span style="color: #b509ac;">offensive metrics</span> such as expected goals (xG), possession, and progression</li>
@@ -32,7 +32,7 @@ Using Champions League Data to Analyze Key Metrics for Tournament Success
 
 <!-- METHODOLOGY -->
 <details>
-  <summary style="font-weight: bold; color: black; cursor: pointer;">Methodology:</summary>
+  <summary><strong>Methodology</strong></summary>
   <p>
     To explore which metrics contribute most to success in the UEFA Champions League, we began by collecting and merging five years' worth of team-level data from <span style="color: #b509ac;">FBref.com</span>. This dataset included over 35 variables such as <span style="color: #b509ac;">possession percentage</span>, <span style="color: #b509ac;">expected goals (xG)</span>, <span style="color: #b509ac;">progressive actions</span>, and <span style="color: #b509ac;">average team age</span> for each participating team.
   </p>
@@ -56,11 +56,11 @@ Using Champions League Data to Analyze Key Metrics for Tournament Success
 
 <!-- FINDINGS -->
 <details>
-  <summary style="font-weight: bold; color: black; cursor: pointer;">Findings:</summary>
+  <summary><strong>Findings</strong></summary>
 
   <!-- xG -->
   <details>
-    <summary style="font-weight: bold; color: black; cursor: pointer;">Expected Goals (xG):</summary>
+    <summary><strong>Expected Goals (xG)</strong></summary>
     <ul>
       <li>Strong indicator of success, especially for <span style="color: #b509ac;">reaching the Round of 16</span> (correlation ≈ 0.57)</li>
       <li>Finalist teams averaged over <span style="color: #b509ac;">2 xG per game</span></li>
@@ -70,7 +70,7 @@ Using Champions League Data to Analyze Key Metrics for Tournament Success
 
   <!-- Possession -->
   <details>
-    <summary style="font-weight: bold; color: black; cursor: pointer;">Possession:</summary>
+    <summary><strong>Possession</strong></summary>
     <ul>
       <li>Average tournament possession: <span style="color: #b509ac;">49.2%</span></li>
       <li>Positive correlation between possession and xG (<span style="color: #b509ac;">r ≈ 0.65</span>)</li>
@@ -88,7 +88,7 @@ Using Champions League Data to Analyze Key Metrics for Tournament Success
 
   <!-- Progressive Carries and Passes -->
   <details>
-    <summary style="font-weight: bold; color: black; cursor: pointer;">Progressive Carries and Passes:</summary>
+    <summary><strong>Progressive Carries and Passes</strong></summary>
     <ul>
       <li>Finalist teams: >250 progressive carries, >500 progressive passes</li>
       <li>Higher progression rates associated with xG between <span style="color: #b509ac;">1.5–2.5</span></li>
@@ -115,7 +115,7 @@ Using Champions League Data to Analyze Key Metrics for Tournament Success
 
   <!-- Average Team Age -->
   <details>
-    <summary style="font-weight: bold; color: black; cursor: pointer;">Average Team Age:</summary>
+    <summary><strong>Average Team Age</strong></summary>
     <ul>
       <li>Mean age: ~<span style="color: #b509ac;">26 years</span></li>
       <li>Slight positive correlation with xG (r ≈ 0.2), but not statistically significant</li>
@@ -134,7 +134,7 @@ Using Champions League Data to Analyze Key Metrics for Tournament Success
 
 <!-- CONCLUSION -->
 <details>
-  <summary style="font-weight: bold; color: black; cursor: pointer;">Conclusion:</summary>
+  <summary><strong>Conclusion</strong></summary>
   <p>
     <span style="color: #b509ac;">Expected goals</span>, <span style="color: #b509ac;">possession</span>, and <span style="color: #b509ac;">progressive actions</span> are meaningful indicators of success in the Champions League. <span style="color: #b509ac;">Age</span> appears less predictive, emphasizing the value of <span style="color: #b509ac;">tactical execution</span> over demographic factors. The combination of <span style="color: #b509ac;">bootstrapping</span> and <span style="color: #b509ac;">regression modeling</span> provided robust insights, showing that <span style="color: #b509ac;">high-quality offensive output</span> and <span style="color: #b509ac;">ball control</span> are vital for tournament success.
   </p>
