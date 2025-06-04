@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Current Project
-date: 2025-02-06 03:08:00
+date: 2025-06-02 03:08:00
 description: 
 tags: 
-categories: sample-posts
-thumbnail: assets/img/9.jpg
+categories: 
+thumbnail: scoreboard.jpg
 
 ---
 

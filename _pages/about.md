@@ -6,7 +6,7 @@ subtitle: <a href='#'>Stanford University</a>. edwardq600@gmail.com (562)-341-98
 
 profile:
   align: right
-  image: DSCF5689.png 
+  image: DSCF5689fixed.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Based in Los Angeles, CA</p>
