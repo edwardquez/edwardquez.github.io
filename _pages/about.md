@@ -25,9 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Edward. I am a recent graduate of Stanford University where I earned my degree in Management Science and Engineering (MS&E) and a concentration in finance and decision-making. I enjoy data analysis and its applicability in all types of industries including finance, sports.  I am currently pursuing roles in FP&A, data analysis, and consulting.      
+Hello! My name is Edward. I am a recent graduate of Stanford University where I earned my degree in Management Science and Engineering (MS&E) and a concentration in finance and decision-making. I enjoy data analysis and its applicability in all types of industries including finance, sports.  I am currently pursuing roles in financial planning and analysis (FP&A), data analysis, and consulting.      
 
-I’m passionate about the power of data to inform smart decisions and drive meaningful outcomes. During my time at Stanford, I developed a strong foundation in quantitative analysis, financial modeling, and strategic thinking skills which I enjoy applying to solve real world problems across a wide range of industries. From financial planning and analysis (FP&A) to sports analytics, I’m particularly interested in how data can uncover key insights to guide impactful decisions. 
+I’m passionate about the power of data to inform smart decisions and drive meaningful outcomes. During my time at Stanford, I developed a strong foundation in quantitative analysis, financial modeling, and strategic thinking skills which I enjoy applying to solve real world problems across a wide range of industries. From FP&A to sports analytics, I’m particularly interested in how data can uncover key insights to guide impactful decisions. 
 
 I am currently exploring opportunities in FP&A, data analysis, and consulting where I seek to continue to grow and contribute to data-driven decision-making. Thanks for visiting my site and feel free to reach out if you would like to connect :D
 

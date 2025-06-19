@@ -8,11 +8,11 @@ category: work
 related_publications: false
 ---
 
-<details>
+<details open>
   <summary><strong>Project Overview</strong></summary>
-  <p>This project is a <span style="color:#b509ac;">web-based stat-tracking system</span> designed for casual groups or wiffle ball leagues. Users can <span style="color:#b509ac;">log each game in real time</span> by recording the outcome of every at-bat. The app automatically <span style="color:#b509ac;">calculates scores</span>, generates <span style="color:#b509ac;">advanced hitting and pitching statistics</span>, and visualizes <span style="color:#b509ac;">player performance over time</span>.</p> You can find the app here: https://wiffle.streamlit.app/ 
+  <p>This project is a <span style="color:#b509ac;">web-based stat-tracking system</span> designed for casual groups or wiffle ball leagues. Users can <span style="color:#b509ac;">log each game in real time</span> by recording the outcome of every at-bat. The app automatically <span style="color:#b509ac;">calculates scores</span>, generates <span style="color:#b509ac;">advanced hitting and pitching statistics</span>, and visualizes <span style="color:#b509ac;">player performance over time</span>.</p> You can find the app here: <a href="https://wiffle.streamlit.app" target="_blank">wiffle.streamlit.app</a> 
 </details>
-
+---
 <details>
   <summary><strong>Key Features: Part 1</strong></summary>
   <div class="row">

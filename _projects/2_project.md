@@ -8,7 +8,7 @@ category: work
 giscus_comments: false
 ---
 
-<details>
+<details open>
   <summary><strong>Project Overview</strong></summary>
   <p>In this project, we partnered with <span style="color:#b509ac;">Wagtail</span> to investigate the <span style="color:#b509ac;">environmental impact</span> of websites and identify actionable ways to reduce their <span style="color:#b509ac;">carbon footprint</span>. Our focus was on understanding <span style="color:#b509ac;">internet-related CO₂ emissions</span>, evaluating <span style="color:#b509ac;">key drivers</span> of those emissions, and proposing <span style="color:#b509ac;">sustainable web development practices</span>. The client, <span style="color:#b509ac;">Wagtail</span> (a <span style="color:#b509ac;">CMS platform</span>), sought to understand how <span style="color:#b509ac;">design choices</span> and <span style="color:#b509ac;">hosting decisions</span> influence <span style="color:#b509ac;">sustainability</span>.</p>
 </details>
