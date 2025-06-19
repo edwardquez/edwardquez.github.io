@@ -65,6 +65,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
+            },},{id: "projects-long-beach-ca-climate-dashboard",
+          title: 'Long Beach, CA Climate Dashboard',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
